@@ -1,0 +1,35 @@
+img{
+    height: 300px;
+}
+
+
+body {
+   background-color: lightblue; color: darkgreen;
+
+}
+
+h1 {
+  text-align: center;  
+}
+
+img {
+    border: 3px solid orangered;
+}
+
+a {
+  background-color: brown;
+  color: black;
+}
+
+h1 {
+  text-transform: uppercase;
+  background-color: blue;
+  color: black;
+}
+
+p {
+  background-color: cornflowerblue;
+  color: rgb(0, 0, 0);
+}
+
+
